@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "Javier Dlogokiski"
+	"author": "Javier Dlogokiski",
+	"description": "Basic Node.js project setup for freeCodeCamp backend course, demonstrating package.json structure and Express integration"
 }
