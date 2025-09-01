@@ -14,12 +14,13 @@
   "author": "Javier Dlogokiski",
   "description": "Basic Node.js project setup for freeCodeCamp backend course, demonstrating package.json structure and Express integration",
   "keywords": [
-	"freecodecamp",
+    "freecodecamp",
     "backend",
     "nodejs",
     "express",
     "package.json",
     "api",
     "learning"
-  ]
+  ],
+  "license": "MIT"
 }
