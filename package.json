@@ -1,16 +1,25 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"author": "Javier Dlogokiski",
-	"description": "Basic Node.js project setup for freeCodeCamp backend course, demonstrating package.json structure and Express integration"
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "author": "Javier Dlogokiski",
+  "description": "Basic Node.js project setup for freeCodeCamp backend course, demonstrating package.json structure and Express integration",
+  "keywords": [
+	"freecodecamp",
+    "backend",
+    "nodejs",
+    "express",
+    "package.json",
+    "api",
+    "learning"
+  ]
 }
